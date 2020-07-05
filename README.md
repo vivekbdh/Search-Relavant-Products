@@ -9,6 +9,7 @@ For building and running the application you need:
 - [JDK 1.8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 - [Maven 3](https://maven.apache.org)
 
+also, you need to change the spring.data.mongodb.uri in application.properties.
 ## Running the application locally
 
 There are several ways to run a Spring Boot application on your local machine. 
