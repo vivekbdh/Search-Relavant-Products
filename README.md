@@ -1,4 +1,4 @@
-# Assignment-Klevu
+# Search-Relavant-Products
 
 The application to get relevant purchased products by given productId.
 
